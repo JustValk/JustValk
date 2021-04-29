@@ -1,0 +1,51 @@
+/* This CSS resource incorporates links to font software which is the
+   valuable copyrighted property of Type Network, Inc. and/or their
+   suppliers. You may not attempt to copy, install, redistribute,
+   convert, modify or reverse engineer this font software. Please
+   contact Type Network with any questions: www.typenetwork.com */
+
+
+	
+		
+@font-face {
+	font-family: "Benton Sans";
+	font-display: auto;
+	font-weight: bold;
+	font-style: normal;
+	
+	src: url("../eot");
+        src: url("../eot#iefix") format("embedded-opentype"),
+             url("../woff2") format("woff2"),
+             url("../woff") format("woff");
+
+}
+		
+	
+		
+@font-face {
+	font-family: "Benton Sans";
+	font-display: auto;
+	font-weight: 600;
+	font-style: normal;
+	
+	src: url("../eot_1");
+        src: url("../eot_1#iefix") format("embedded-opentype"),
+             url("../woff2_1") format("woff2"),
+             url("../woff_1") format("woff");
+
+}
+		
+	
+		
+@font-face {
+	font-family: "Benton Sans";
+	font-display: auto;
+	font-weight: normal;
+	font-style: normal;
+	
+	src: url("../eot_2");
+        src: url("../eot_2#iefix") format("embedded-opentype"),
+             url("../woff2_2") format("woff2"),
+             url("../woff_2") format("woff");
+
+}
