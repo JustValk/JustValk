@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Valk I try to fix code that don't work I'm planning to contribute some stuff.
+https://justvalk.github.io
 
 <!--
 **JustValk/JustValk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
